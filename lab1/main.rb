@@ -1,5 +1,5 @@
 class Main
 
-  <%-# some code here -%>
+  <%# some code here %>
 
 end
