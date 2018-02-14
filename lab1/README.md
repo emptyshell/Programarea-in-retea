@@ -1,3 +1,5 @@
+#Project Initialisation
+
 Opening Rubymine projects from the command line
 To activate the shell command, go to Tools > Create Command-line Launcher and confirm.
 
